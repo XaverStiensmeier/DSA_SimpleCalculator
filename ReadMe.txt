@@ -2,7 +2,7 @@ What do we have here?
 a person looking up the ReadMe file oO.
 
 Project Title: DSA_SimpleCalculator
-Version Number: 1.00
+Version Number: 1.20
 
 Getting started: Just click it twice
 
@@ -20,7 +20,7 @@ Help
 
 Translations GER => ENG
 Eigenschaften  = Attributes
-Fähigkeitswert = Skill Points
+FÃ¤higkeitswert = Skill Points
 Modifikator    = Modifier
 Zu erreichende QS = QL or higher
 Wie viele Proben  = How many checks? (group checks)
